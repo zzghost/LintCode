@@ -14,6 +14,7 @@ No.|Title|Difficulty|Tag
 082|Single Number|Easy|Bit Manipulation
 104|Merge K Sorted Lists|Medium|Linked List + PriorityQueue
 132|Word Search II|Hard|Backtracking(DFS)
+154|Regular Expression Matching|Hard|Dynamic Programming
 167|Add Two Numbers|Easy|Linked List
 363|Trapping Rain Water|Medium|Dynamic Programming, Two pointers
 380|Intersection of Two Linked Lists|Medium|Linked List
@@ -27,6 +28,7 @@ No.|Title|Difficulty|Tag
 655|Add Strings|Easy|String
 775|Palindrome Pairs|Hard|String+HashMap
 851|Pour Water|Medium|Simulation
+892|Alien Dictionary|Hard|Topological Sort
 951|Rearrange|Easy|Array
 952|Digital Problem|Easy|Math
 953|The Biggest Score On The Tree|Medium|Graph+DFS
