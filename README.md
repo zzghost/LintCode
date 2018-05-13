@@ -23,8 +23,10 @@ No.|Title|Difficulty|Tag
 488|Happy Number|Easy|Math+HashSet
 577|Merge K Sorted Interval Lists|Medium|PriorityQueue
 601|Flatten 2D Vector|Medium|Array
+605|Sequence Reconstruction|Medium|Array
 655|Add Strings|Easy|String
 775|Palindrome Pairs|Hard|String+HashMap
+851|Pour Water|Medium|Simulation
 951|Rearrange|Easy|Array
 952|Digital Problem|Easy|Math
 953|The Biggest Score On The Tree|Medium|Graph+DFS
