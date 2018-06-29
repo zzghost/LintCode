@@ -32,3 +32,13 @@ No.|Title|Difficulty|Tag
 951|Rearrange|Easy|Array
 952|Digital Problem|Easy|Math
 953|The Biggest Score On The Tree|Medium|Graph+DFS
+
+## Google
+No.|Title|Difficulty|Tag  
+---|-----|----------|---
+155|Minimum Depth of Binary Tree|Easy|Tree Traversal
+433|Number Of Islands|Easy|DFS or Union Find
+480|Binary Tree Paths|Easy|Backtracking
+662|Guess Number Higher or Lower|Easy|Binary Search
+1314|Power of Two|Easy|Bit Manipulation
+1368|Same Number|Easy|Bit Manipulation
